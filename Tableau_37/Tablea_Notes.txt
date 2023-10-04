@@ -1,0 +1,24 @@
+LAB
+Custom Data Views:
+1.Drill Down Views: it is a indetail info of data
+2.Swapping Dimensions:Drag the region measure and drop it on the vertical 
+dotted line after the category dimension in the worksheet canvas so that 
+the dimensions will get swapped, and it will also be swapped in the row shelf. 
+Similarly, we can do for category and region dimension to get swapped using 
+the same procedure 
+
+Extrcting the Data:
+ right click on datasets that you want and then yu can see extract data.cick on it.
+ extract data window will appear.
+ Click on data that you want 
+
+Field Operations:
+Adding fields to the worksheet
+Searching fields
+Hirerachy: means creating a new dimensions.
+
+Editing meta data:
+Changing the data type
+Renaming and hiding
+Column Alas
+
